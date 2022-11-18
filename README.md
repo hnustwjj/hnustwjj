@@ -14,8 +14,16 @@
 - ts体操达人（太难的体操也跳不动）
 - 想学rust，像peter一样用tauriapp做一个pc应用
 - 想学rn，写一个自己的手机app
-- 好多想学的。。。
+- 好多想学的。。。(例如多学一点node相关的东西，加深工程化能力）
+
+### 个人项目
+
+- [react starport跨路由组件动画](https://github.com/hnustwjj/react-starport)
+- [music player音乐播放组件](https://github.com/hnustwjj/wjj-music)
+- [byyourself刷题汇总](https://github.com/hnustwjj?tab=repositories)
 
 ### 总结
 
-认识很多佬，从他们那边学到很多。如果想加入我们的话，可以联系qq:948065841加入南通（前端）群
+认识很多佬，从他们那边学到很多。如果想加入我们的话，可以联系qq:948065841加入南通（前端）群。
+
+个人笔记会在[语雀](https://www.yuque.com/buyaozailaichuang/)和[站点](https://diary.jzsp66.xyz/)上发（随缘更）
