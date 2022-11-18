@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**hnustwjj/hnustwjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我叫wjj，也可以叫我九折水平（本意是就这水平，为了让自己多向别人学习）
 
-Here are some ideas to get you started:
+### 工作经历
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2022.5.28 - 2022.8.12    安恒信息前端实习
+- 2022.8.26 - 2022.11.25   小红书前端实习
+- 2022.11.11 （收获byteoffer，预计12.15入职）
+
+### 技术栈
+
+- vue3爱好者，当然react也不差
+- ts体操达人（太难的体操也跳不动）
+- 想学rust，像peter一样用tauriapp做一个pc应用
+- 想学rn，写一个自己的手机app
+- 好多想学的。。。
+
+### 总结
+
+认识很多佬，从他们那边学到很多。如果想加入我们的话，可以联系qq:948065841加入南通（前端）群
